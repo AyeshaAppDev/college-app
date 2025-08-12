@@ -13,7 +13,6 @@ A comprehensive Flutter application for college management featuring events, not
 
 ## Screenshots 📸
 
-|-------------|--------|---------|----------|
 ![1](https://github.com/user-attachments/assets/190a73ad-50cb-49ff-8720-86f38559b35c)
 ![p](https://github.com/user-attachments/assets/29aadffe-45cf-421e-acc4-da3a7316f39f)
 ![n](https://github.com/user-attachments/assets/05e93984-8060-432c-b640-74c6c32c2d52)
